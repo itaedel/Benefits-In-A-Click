@@ -15,7 +15,7 @@ I also created both the back-end and front-end of the website, ensuring it is ea
 ## Features
 
 - **User-friendly Interface:** Easy to navigate and use.
-- **Quick Access to a Variety Benefits:** Quickly and easily find benefits quickly.
+- **Quick Access to a Variety of Benefits:** Quickly and easily find benefits quickly.
 - **Updates Regularly:** The database is constantly being updated with the latest benefits.
 
 ## Screenshots
@@ -23,7 +23,7 @@ I also created both the back-end and front-end of the website, ensuring it is ea
 Here are some screenshots of the project:
 
 ![Screenshot 1](images/image1.png)
-*Main page*
+*Main search page*
 
 ![Screenshot 2](images/image2.png)
 *A simple search*
