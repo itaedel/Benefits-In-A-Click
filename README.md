@@ -1,1 +1,3 @@
-# BenefitsIn-A-Click
+---
+title: Welcome to My Site
+---
