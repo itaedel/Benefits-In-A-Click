@@ -4,7 +4,7 @@ title: Benefits in a Click
 
 # Benefits in a Click
 
-"Benefits in a Click" is a project designed to simplify the process of accessing various benefits and services with just a few clicks.
+Benefits in a Click is a user-friendly platform where people can search and compare credit card benefits based on the credit clubs they're a member in.
 
 ## About the Project
 
@@ -28,8 +28,7 @@ Here are some screenshots of the project:
 
 ## Contact
 
-For more information, please contact us at [info@benefitsinaclick.com](mailto:info@benefitsinaclick.com).
-
+To get in touch, please contact me at [ita.edel@pm.me](mailto:ita.edel@pm.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/itamar-edelstein-868897204/).
 ---
 
-&copy; 2024 Benefits in a Click. All rights reserved.
+&copy; 2024 Itamar Edelstein. All rights reserved.
