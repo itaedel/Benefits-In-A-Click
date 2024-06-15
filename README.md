@@ -1,4 +1,4 @@
-# Welcome to My Repository
+# Benefits In a Click
 
 This repository contains the code and content for my GitHub Pages site.
 
