@@ -28,8 +28,7 @@ Here are some screenshots of the project:
 ![Screenshot 2](images/screenshot2.png)
 *Description of Screenshot 2.*
 
-## Contact
-
+##
 To get in touch, please contact me at [ita.edel@pm.me](mailto:ita.edel@pm.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/itamar-edelstein-868897204/).
 ---
 
