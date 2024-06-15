@@ -1,5 +1,6 @@
 ---
 title: Benefits in a Click
+layout: default
 ---
 
 # Benefits in a Click
