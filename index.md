@@ -22,11 +22,11 @@ I also created both the back-end and front-end of the website, ensuring it is ea
 
 Here are some screenshots of the project:
 
-![Screenshot 1](images/screenshot1.png)
-*Description of Screenshot 1.*
+![Screenshot 1](images/image1.png)
+*Main page*
 
-![Screenshot 2](images/screenshot2.png)
-*Description of Screenshot 2.*
+![Screenshot 2](images/image2.png)
+*A simple search*
 
 ## To get in touch, please contact me at [ita.edel@pm.me](mailto:ita.edel@pm.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/itamar-edelstein-868897204/).
 ---
