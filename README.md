@@ -1,3 +1,7 @@
+---
+title: Benefits in a Click
+---
+
 # Benefits In a Click
 
 This repository contains the code and content for my GitHub Pages site.
