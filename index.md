@@ -1,4 +1,6 @@
-
+---
+title: Benefits in a Click
+---
 
 # Benefits in a Click
 
