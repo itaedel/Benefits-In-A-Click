@@ -25,11 +25,14 @@ Here are some screenshots of the project:
 ![Screenshot 1](images/image1.png)
 *Main search page*
 
+
 ![Screenshot 2](images/image2.png)
 *A simple search*
 
+
 ![Screenshot 3](images/image3.png)
 *A search by category*
+
 
 ## To get in touch, please contact me at [ita.edel@pm.me](mailto:ita.edel@pm.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/itamar-edelstein-868897204/).
 ---
