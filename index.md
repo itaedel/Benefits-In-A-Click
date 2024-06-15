@@ -4,17 +4,18 @@ title: Benefits in a Click
 
 # Benefits in a Click
 
-Benefits in a Click is a user-friendly platform where people can search and compare credit card benefits based on the credit clubs they're a member in.
+Benefits in a Click is a user-friendly platform where users can search and compare credit card benefits based on the credit clubs they are members of and help them save money.
 
 ## About the Project
 
-The goal of this project is to create a user-friendly platform where users can easily find and apply for benefits without the hassle of navigating through multiple websites.
+The goal of my project is to create a user-friendly platform where users can easily find and compare benefits without the hassle of navigating through multiple websites, saving valuable time and money for them.
+In this project I had to create crawlers that can gather information from different credit club websites, and created a large database of benefits.
 
 ## Features
 
 - **User-friendly Interface:** Easy to navigate and use.
-- **Quick Access to Benefits:** Find and apply for benefits quickly.
-- **Secure and Reliable:** Ensuring user data is protected.
+- **Quick Access to a Variety Benefits:** Quickly and easily find benefits quickly.
+- **Updates Regularly:** The database is constantly being updated with the latest benefits.
 
 ## Screenshots
 
