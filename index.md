@@ -9,7 +9,7 @@ Benefits in a Click is a user-friendly platform where users can search and compa
 ## About the Project
 
 The goal of my project is to create a user-friendly platform where users can easily find and compare benefits without the hassle of navigating through multiple websites, saving valuable time and money for them.
-In this project I had to create crawlers that can gather information from different credit club websites, and created a large database of benefits.
+In this project, I had to create crawlers that can gather information from different credit club websites, and created a large database of benefits.
 I also created both the back-end and front-end of the website, ensuring it is easy to use.
 
 ## Features
@@ -27,6 +27,9 @@ Here are some screenshots of the project:
 
 ![Screenshot 2](images/image2.png)
 *A simple search*
+
+![Screenshot 3](images/image3.png)
+*A search by category*
 
 ## To get in touch, please contact me at [ita.edel@pm.me](mailto:ita.edel@pm.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/itamar-edelstein-868897204/).
 ---
