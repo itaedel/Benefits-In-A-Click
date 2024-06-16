@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>הטבות בקליק</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/webp" href="images/website_logo.webp">
+</head>
+<body>
+<header>
+    <img src="images/website_logo.webp" alt="Website Logo" id="website_logo">
+    <div id="header_titles">
+        <h1 id="main_title">Benefits In a Click</h1>
+        <h2 id="sub_title">השוואת הטבות אשראי</h2>
+    </div>
+</header>
+<section class="search_section">
+    <p id="enter_details">יש לחפש הטבה ולסמן חברות אשראי מתאימות, ניתן לחפש גם לפי קטגוריה</p>
+    <div class="search_section_objects">
+        <input type="text" id="main_search_box" name="main_search" placeholder="סרט או שובר למסעדה...">
+        <div>
+            <label>
+                <input type="checkbox" id="filter_max" name="filter" value="max"> מקס
+            </label>
+            <label>
+                <input type="checkbox" id="filter_isracard" name="filter" value="isracard"> ישראכרט
+            </label>
+            <label>
+                <input type="checkbox" id="filter_amex" name="filter" value="amex"> אמריקן אקספרס
+            </label>
+        </div>
+        <select id="category_dropdown" name="category">
+            <option value="">כל הקטגוריות</option>
+            <option value="food">אוכל</option>
+            <option value="entertainment">בידור ופנאי</option>
+            <option value="abroad">נופש וחו"ל</option>
+            <option value="shopping">קניות</option>
+            <option value="attractions">אטרקציות</option>
+        </select>
+        <button id="main_search_button" class="msb-1">מצא לי הטבה שווה</button>
+    </div>
+    <section id="search-results" style="display: none">
+        <h2 id="search-results-h2"></h2>
+        <p id="open-in-new-tab-warning">*לחיצה על הקישור תפתח את אתר האשראי בלשונית חדשה</p>
+        <ul id="results-list"></ul>
+    </section>
+</section>
+<footer>
+    <p>&copy; כל הזכויות שמורות לאיתמר אדלשטיין </p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
