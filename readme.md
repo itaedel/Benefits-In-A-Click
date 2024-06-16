@@ -53,4 +53,4 @@ git clone https://github.com/itaedel/Benefits-In-A-Click.git
 To get in touch, please contact me at [ita.edel@pm.me](mailto:ita.edel@pm.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/itamar-edelstein-868897204/).
 
 
-© 2024 Benefits in a Click. All rights reserved.
+© 2024 Itamar Edelstein. All rights reserved.
