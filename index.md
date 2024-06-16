@@ -1,9 +1,9 @@
 ---
-title: Benefits In a Click
+title: Benefits in a Click
 layout: default
 ---
 
-# Benefits In a Click
+# Benefits in a Click
 
 Benefits in a Click is a user-friendly platform where users can search and compare credit card benefits based on the credit clubs they are members of and help them save money.
 
