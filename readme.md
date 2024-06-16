@@ -21,12 +21,12 @@ Benefits in a Click is a user-friendly platform where users can search and compa
 - **base_site.js**
   - JavaScript file for the back-end server functionality. It handles server-side operations and logic.
 
-- **client_side.html**
-  - HTML file for the client-side of the application.
-
 - **database_handler.py**
   - Python script for handling database operations, including creating and managing the database of benefits and running the crawlers.
-
+    
+- **client_side.html**
+  - HTML file for the client-side of the application.
+    
 - **script.js**
   - JavaScript file for client-side functionality. It is included in `client_side.html` to handle interactive features on the user interface.
 
