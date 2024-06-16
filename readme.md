@@ -10,6 +10,9 @@ Benefits in a Click is a user-friendly platform where users can search and compa
 
 - **crawlers/**
   - Contains the code for the web crawlers that gather information from different credit club websites.
+    - [crawler_amex.py](./crawlers/crawler_amex.py): Python code to gather information from American Express credit club.
+    - [crawler_isracard.py](./crawlers/crawler_isracard.py): Python code to gather information from Isracard credit club.
+    - [crawler_max.py](./crawlers/crawler_max.py): Python code to gather information from Max credit club.
 
 - **images/**
   - Contains image files used in the project, including the favicon and other assets.
