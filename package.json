@@ -1,0 +1,21 @@
+{
+  "name": "hatavot1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base_site.js",
+  "scripts": {
+    "start": "node base_site.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itaedel/hatavot1.git"
+  },
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "pg": "^8.11.3"
+  }
+}
